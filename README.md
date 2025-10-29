@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+### User
+store(dev)> User.create! email_address: "ssanay79@gmail.com", password: "test01", password_confirmation: "test01"
